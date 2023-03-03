@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  - AZUBI-AFRICA-DAP-WEEK-2           |  -  This is my second assignment with Microsoft Excel with Azubi Africa Data Analytics Program           | https://github.com/kwabenaboateng/AZUBI-AFRICA-DAP-WEEK-2.git      |
+| 2 |  - AZUBI-AFRICA-DAP-WEEK-3            |  - This is my first Power BI project after being enrolled into the Azubi Africa Data Analytics Program.            | https://github.com/kwabenaboateng/AZUBI-AFRICA-DAP-WEEK-3.git     |
+| 3 |  - AZUBI-AFRICA-DAP-WEEK-5            |  - In week five (5) of the Azubi Africa Data Analytics Program, I worked on this python project            | https://github.com/kwabenaboateng/AZUBI-AFRICA-DAP-WEEK-5.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
